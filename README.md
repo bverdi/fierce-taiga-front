@@ -1,5 +1,4 @@
-# sofia_plano-estudos
-
+# fierce-taiga-front
 > My fabulous Nuxt.js project
 
 ## Build Setup
